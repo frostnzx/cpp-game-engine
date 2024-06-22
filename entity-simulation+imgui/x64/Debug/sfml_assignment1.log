@@ -1,8 +1,0 @@
-﻿  main.cpp
-F:\repository\visualstudio\sfml_assignment1\main.cpp(60,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-F:\repository\visualstudio\sfml_assignment1\main.cpp(60,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-F:\repository\visualstudio\sfml_assignment1\main.cpp(60,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-F:\repository\visualstudio\sfml_assignment1\main.cpp(161,78): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
-F:\repository\visualstudio\sfml_assignment1\main.cpp(161,66): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
-F:\repository\visualstudio\sfml_assignment1\main.cpp(161,54): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
-  sfml_assignment1.vcxproj -> F:\repository\visualstudio\sfml_assignment1\x64\Debug\sfml_assignment1.exe
