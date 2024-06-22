@@ -1,0 +1,17 @@
+Texture TexGround assets/images/ground.png 1
+Texture TexBrick assets/images/brick.png 1
+Texture TexCloud assets/images/cloudsmall.png 1
+Texture TexBush assets/images/bush.png 1
+Texture TexQuestion assets/images/question.png 1
+Texture TexMarioJump assets/images/mario-jump.png 1 
+Texture TexMarioRun assets/images/mario-run.png 1
+Texture TexMarioIdle assets/images/mario-idle.png 1
+Animation Ground TexGround 1 1
+Animation Brick TexBrick 1 1
+Animation Cloud TexCloud 1 1
+Animation Bush TexBush 1 1
+Animation Question TexQuestion 1 1
+Animation MarioJump TexMarioJump 1 1
+Animation MarioRun  TexMarioRun 2 10
+Animation MarioIdle TexMarioIdle 1 1
+Font Joystix assets/fonts/joystix_monospace.otf

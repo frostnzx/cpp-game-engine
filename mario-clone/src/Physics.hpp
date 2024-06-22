@@ -1,0 +1,12 @@
+#pragma once
+
+#include "Entity.hpp"
+
+// setting Physics as an namespace because we won't create an physics object just to use its function
+// it's not a class
+
+namespace Physics 
+{
+	Vec2 GetOverlap(std::shared_ptr<Entity> a, std::shared_ptr<Entity> b);
+	Vec2 GetPreviousOverlap(std::shared_ptr<Entity> a, std::shared_ptr<Entity> b);
+}
